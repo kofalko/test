@@ -1,4 +1,3 @@
-hello
-hello
-hello
-hello
+git add .
+git commit -m ""
+git push origin branch
